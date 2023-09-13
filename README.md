@@ -1,0 +1,13 @@
+# RPA
+readme
+https://www.youtube.com/watch?v=tElTb5T8SmU
+
+For ETD LPET folks
+Goes to SLS to populate the class from the email of teachers provided in the Excel column E.
+Typically it can be very painful to key in 100 teachers to a class that you hope to conduct for professional development.
+TagUI provides an easy way to do this.
+
+Note:
+For the computer version to work, the code needs to run on the primary display of the computer. keyboard[enter] 
+SLS does not provide a icon to trigger the search, so need to use computer vision to bring the you put input field into focus.
+The view height of the browser also needs to be maximise because the "teacher as student" selection cannot be found if the height of the browser is too small, recommend to have full screen.
